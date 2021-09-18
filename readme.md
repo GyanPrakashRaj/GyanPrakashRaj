@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gyan Parakash</h1>
+<h1 align="center">Hi 👋, I'm Gyan Prakash</h1>
 <h3 align="center">Learner first then Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprakashraj&label=Profile%20views&color=0e75b6&style=flat" alt="gyanprakashraj" /> </p>
