@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash</h1>
 <h3 align="center">Learner first then Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprakashraj&label=Profile%20views&color=0e75b6&style=flat" alt="gyanprakashraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprakashraj&label=Profile%20views&color=fc4b00&style=flat" alt="gyanprakashraj" /> </p>
+
+[![Contributors needed](https://img.shields.io/badge/contributors-needed-color=00fc36.svg)](.github/CONTRIBUTING.md)
+
+<p align='center'>
+<a href="https://twitter.com/Kali_root_zBUGS?s=09"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/command_bug_/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gyan-p-a20539202/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanprakashraj" alt="gyanprakashraj" /></a> </p>
 
