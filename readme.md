@@ -2,8 +2,10 @@
 <h3 align="center">Learner first then Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprakashraj&label=Profile%20views&color=fc4b00&style=flat" alt="gyanprakashraj" /> </p>
+<p align = "center"> <img src="https://img.shields.io/badge/A BUG%20DEBUGGING-ITSELF-white.svg" alt="A BUG DEBUGGING ITSELF" /> </p>
 
-[![Contributors needed](https://img.shields.io/badge/contributors-needed-color=00fc36.svg)](.github/CONTRIBUTING.md)
+[![Contributors needed](https://img.shields.io/badge/contributors-needed-green.svg)](.github/CONTRIBUTING.md)
+
 
 <p align='center'>
 <a href="https://twitter.com/Kali_root_zBUGS?s=09"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
