@@ -15,17 +15,19 @@
 <a href="https://www.instagram.com/command_bug_/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gyan-p-a20539202/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development**
+```diff
+About Me👩‍💻.
 
-- 🌱 I’m currently learning **Flask Framework || JAVA**
-
+@@ Upcoming software engineer at FAANG@@
++ 🔭 I’m currently working on **Android Development*.
+- 🌱 learning **Flask Framework || JAVA**
+! sometimes speaker, sometimes memer, poet and storyteller
+# 📖 Programming languages, functional, web development
 - 💬 Ask me about **WEB DESIGNING || C.P**
+```
 
-- 📫 How to reach me **zbugs.thepsychocoder@gmail.com**
 <p align = "center"><a href="#"><img width="80%" img align='center' height="auto" src="https://user-images.githubusercontent.com/79048275/140560274-96d99d37-e248-4ff3-be57-37dfaa780c57.gif" height="60px"/></a></p>
 
 <a href="https://github.com/GyanPrakashRaj">
