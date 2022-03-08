@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Gyan Prakash</h1>
-<h3 align="center">Learner first then Developer</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/79048275/157303473-8928a507-e1b6-477b-bf77-2c8959ceb390.gif" width="100px">Learner first then Developer <img src="https://user-images.githubusercontent.com/79048275/157303082-c702dc9c-ea1a-4f41-a1d2-dc85b4bb8ee4.gif" width="100px"></h3>
+<p align="center"></p>
+
 
 <p align = "right"> <img src="https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-GPR-ff1414.svg"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprakashraj&label=Profile%20views&color=fc4b00&style=flat" alt="gyanprakashraj" /> </p>
