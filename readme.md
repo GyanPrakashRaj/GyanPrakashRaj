@@ -36,8 +36,7 @@ About Me👩‍💻.
     </p>
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanprakashraj&show_icons=true&locale=en&layout=compact" alt="gyanprakashraj" /></p>
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanprakashraj&langs_count=5&theme=tokyonight)]()
 # Technologies
 
 ### CI
