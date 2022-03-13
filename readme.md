@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Gyan Prakash</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Gyan Prakash <img src="https://user-images.githubusercontent.com/79048275/158051310-7ed5694b-4a85-48bf-aa98-36c21673c881.png" width="30px"></h1>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/79048275/157303473-8928a507-e1b6-477b-bf77-2c8959ceb390.gif" width="100px">Learner first then Developer <img src="https://user-images.githubusercontent.com/79048275/157303082-c702dc9c-ea1a-4f41-a1d2-dc85b4bb8ee4.gif" width="100px"></h3>
 <p align="center"></p>
 
