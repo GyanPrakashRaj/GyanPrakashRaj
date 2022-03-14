@@ -132,7 +132,7 @@ Somethig about me👩‍💻.
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
- [![Gyan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gyanprakashraj&theme=xcode)](https://git.io/gyanprakashraj)
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gyanprakashraj&bg_color=000000&color=e1ff00&line=14db22&point=ea61cd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gyanprakashraj&theme=prussian&hide_border=true)](https://git.io/streak-stats)
