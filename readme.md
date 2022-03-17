@@ -135,6 +135,7 @@ Somethig about me👩‍💻.
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gyanprakashraj&bg_color=000000&color=e1ff00&line=14db22&point=ea61cd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    <br />
    <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gyanprakashraj&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   [![gitstatus](https://user-images.githubusercontent.com/79048275/158908854-5933867a-e27f-4749-958c-9b7114d8abd8.svg)<br /><br />
+   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gyanprakashraj&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
