@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Gyan Prakash <img src="https://user-images.githubusercontent.com/79048275/158051310-7ed5694b-4a85-48bf-aa98-36c21673c881.png" width="30px"></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5618dd&height=180&section=header&text=Gyan Prakash Raj&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/79048275/157303473-8928a507-e1b6-477b-bf77-2c8959ceb390.gif" width="100px">Learner first then Developer <img src="https://user-images.githubusercontent.com/79048275/158907185-ad41bf26-5927-4109-923e-eebc6b5892e1.gif" width="100px"></h3>
 <p align="center"></p>
 
