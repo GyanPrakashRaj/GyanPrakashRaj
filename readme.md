@@ -4,7 +4,7 @@
 
 
 <p align = "right"> <img src="https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-GPR-ff1414.svg"/> </p>
-<p align="left"> <img src="https://profile-counter.glitch.me/{gyanprakashraj}/count.svg" alt="gyan :: Visitor's Count" alt="gyanprakashraj" /> </p>
+<img src="https://komarev.com/ghpvc/?username=gyanprakashraj&label=MY PROFILE VIEWS&color=FF1C9D&style=flat-square" alt="views on github" />
 <p align = "center"> <img src="https://img.shields.io/badge/A BUG%20DEBUGGING-ITSELF-white.svg" alt="A BUG DEBUGGING ITSELF" /> </p>
 <p align = "right"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields" alt="A BUG DEBUGGING ITSELF" /> </p>
 <p align = "left"> <img src="https://img.shields.io/badge/contributors-needed-green.svg" alt="A BUG DEBUGGING ITSELF" /> </p>
