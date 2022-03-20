@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5618dd&height=180&section=header&text=Gyan Prakash Raj&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-<h3 align="center"><img src="https://user-images.githubusercontent.com/79048275/157303473-8928a507-e1b6-477b-bf77-2c8959ceb390.gif" width="100px">Learner first then Developer <img src="https://user-images.githubusercontent.com/79048275/158907185-ad41bf26-5927-4109-923e-eebc6b5892e1.gif" width="100px"></h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/79048275/159160068-56609cbf-a9f9-4a20-9da2-254ace50c924.gif" width="200px">Learner first then Developer <img src="https://user-images.githubusercontent.com/79048275/158907185-ad41bf26-5927-4109-923e-eebc6b5892e1.gif" width="100px"></h3>
 <p align="center"></p>
 
 
