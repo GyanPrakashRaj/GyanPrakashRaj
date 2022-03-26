@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ```diff
-Somethig about me👩‍💻.
+THIS IS ME👩‍💻.
 
 @@ Upcoming software engineer at FAANG@@
 + 🔭 I’m currently working on **Android Development*.
