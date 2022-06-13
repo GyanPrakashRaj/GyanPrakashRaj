@@ -36,7 +36,6 @@ THIS IS ME👩‍💻.
     </p>
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyanprakashraj&theme=github_dark)
 # Technologies
 
 ### CI
