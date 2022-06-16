@@ -27,9 +27,6 @@ THIS IS ME👩‍💻.
 # 📖 Programming languages, functional, web development
 - 💬 Ask me about **WEB DESIGNING || C.P**
 ```
-
-<p align = "center"><a href="#"><img width="80%" img align='center' height="auto" src="https://user-images.githubusercontent.com/79048275/140560274-96d99d37-e248-4ff3-be57-37dfaa780c57.gif" height="60px"/></a></p>
-
 <a href="https://github.com/GyanPrakashRaj">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=gyanprakashraj&column=7&theme=onedark"/>
