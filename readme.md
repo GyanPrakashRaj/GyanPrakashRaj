@@ -19,7 +19,7 @@
 
 ```diff
 THIS IS ME👩‍💻.
-
+.......
 @@ Upcoming software engineer at FAANG@@
 + 🔭 I’m currently working on **Android Development*.
 - 🌱 learning **Flask Framework || JAVA**
