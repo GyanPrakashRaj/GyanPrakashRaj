@@ -2,7 +2,7 @@
 <p align="center">Learner first then Developer</p>
 <p align="center"></p>
 
-
+<img src="https://user-images.githubusercontent.com/79048275/187238617-0a81c1fb-f582-4483-89de-9371a73ba821.png"/>
 <p align = "right"> <img src="https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-GPR-ff1414.svg"/> </p>
 <img src="https://komarev.com/ghpvc/?username=gyanprakashraj&label=MY PROFILE VIEWS&color=FF1C9D&style=flat-square" alt="views on github" />
 <p align = "center"> <img src="https://img.shields.io/badge/A BUG%20DEBUGGING-ITSELF-white.svg" alt="A BUG DEBUGGING ITSELF" /> </p>
