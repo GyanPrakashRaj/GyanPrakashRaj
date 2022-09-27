@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5618dd&height=180&section=header&text=Gyan Prakash Raj&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <p align="center">Learner first then Developer</p>
 <p align="center"></p>
 
