@@ -150,8 +150,7 @@ THIS IS ME👩‍💻.
 </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img width="97%" src="https://activity-graph.herokuapp.com/graph?username=GyanPrakashRaj&theme=react&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
-
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gyanprakashraj&bg_color=2a272a&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -162,3 +161,7 @@ THIS IS ME👩‍💻.
 
 ## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🎓 HacktoberFest 2022 Wall :
+[![](https://holopin.me/gyanbug)](https://holopin.io/@gyanbug)
+
