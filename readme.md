@@ -11,7 +11,7 @@
 
 <p align='center'>
 <a href="https://twitter.com/Kali_root_zBUGS?s=09"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gyan-p-a20539202/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/gyanprakashraj/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
