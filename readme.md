@@ -16,7 +16,7 @@
 - [💼 Projects  and Contributions to Open Source](#projects)
 - [🎯 Achievements](#achievements)
 - [📈 GitHub Stats ](#github_stats)
-- [😇 What people say about me?](#testimonials)
+- [😇 Testimonials](#testimonials)
 - [🔍 Find me Online](#social)
 
 <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
