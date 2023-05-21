@@ -7,32 +7,58 @@
 <p align = "center"> <img src="https://img.shields.io/badge/A BUG%20DEBUGGING-ITSELF-white.svg" alt="A BUG DEBUGGING ITSELF" /> </p>
 <p align = "right"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields" alt="A BUG DEBUGGING ITSELF" /> </p>
 <p align = "left"> <img src="https://img.shields.io/badge/contributors-needed-green.svg" alt="A BUG DEBUGGING ITSELF" /> </p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+### Don't Scroll, Jump!
+- [😊 Introduction ](#intro)
+- [🥑More about me](#more)
+- [🛠 My Tech Stack](#skills)
+- [💼 Projects  and Contributions to Open Source](#projects)
+- [🎯 Achievements](#achievements)
+- [📈 GitHub Stats ](#github_stats)
+- [😇 What people say about me?](#testimonials)
+- [🔍 Find me Online](#social)
+
+<p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
+
+<img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
 
-<p align='center'>
-<a href="https://twitter.com/Kali_root_zBUGS?s=09"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gyanprakashraj/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 id="intro"> Namaste 🙏 </h3>
 
-```diff
-THIS IS ME👩‍💻.
-.......
-@@ Upcoming software engineer at FAANG@@
-+ 🔭 I’m currently working on **Android Development*.
-- 🌱 learning **Flask Framework || JAVA**
-! sometimes speaker, sometimes memer, poet and storyteller
-# 📖 Programming languages, functional, web development
-- 💬 Ask me about **WEB DESIGNING || C.P**
-```
-<a href="https://github.com/GyanPrakashRaj">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=gyanprakashraj&column=7&theme=onedark"/>
-    </p>
-</a>
+**Visiting my Profile haa?🕵** 
+Kindly let me  **introduce** myself first!
+I am <a href="" target="_blank">**Gyan Prakash Raj**</a>, currently studying in 3rd Year CSE.
 
+I am very passionate about:
+- Web Development 🌐
+- Mobile App Development 📱
+- Programming 🖥
+- Automation 🤖
+- Debugging 🐞
 
-## 💻 Tech Stack :
+My weakness -
+- Error Handling 🩹
+- SHOULD I SHARE MORE ? 🎭
+-
+
+Some of my hobbies:
+Writing Nazms ✍, Reading Books 📚, Music & Singing 🎶, Making Connections🤝, Open Source📂, Building Coding Society🌻 etc.
+
+**I am very interested in making connections with cool people like YOU!**
+<h3 id="more"> ⚡️ A Few Quick Facts 👨‍💻</h3>
+<ul>
+<li>🔭 I’m currently working on <a href="https://gssoc.girlscript.tech/">GSSOC</a>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/GyanPrakashRaj?tab=repositories">Github</a>.</li>
+<li>📝 I <del>regulary</del> write articles on <a href="">my blog</a>.</li>
+<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="">resume</a>.</li>
+<li>🎉 Fun Fact: 我也会讲中文。</li>
+</ul>
+
+<h3 id="skills"> ## 💻  My Tech Stack : </h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -138,24 +164,16 @@ THIS IS ME👩‍💻.
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-
-
-## 📊 GitHub Stats :
-<div>
-<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=GyanPrakashRaj&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
-<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=GyanPrakashRaj&theme=shades-of-purple&hide_border=true"/>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanPrakashRaj&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
-</p>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gyanprakashraj&bg_color=2a272a&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 id="github_stats" align='center'>📊 GitHub Stats</h2>
 
 
+| <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=GyanPrakashRaj&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true" alt="Gyan's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanprakashraj&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
+| ------------- | ------------- |
+| <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=gyanprakashraj&theme=github" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanprakashraj&layout=compact" /> |
+| <img src="https://github-profile-trophy.vercel.app/?username=GyanPrakashRaj&theme=discord&no-frame=true&no-bg=true" /> 
 
-## 🏆 GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=GyanPrakashRaj&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## ✍️ Random Dev Quote :
